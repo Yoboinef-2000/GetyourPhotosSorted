@@ -1,7 +1,5 @@
-#
-Phone, Photos Dump, Sorted
+# Phone, Photos Dump, Sorted
 
-######
 Lets say you have thousands of photos in your phone that you havent backed up yet. You now transfer them to your laptop/hard drive and want to sort them.
 
 Manually creating folders and sorting thousands of photos can be time consuming so if you do not want to do that, you can run this python script and sort every photo to a folder based on the date they were taken.
@@ -13,7 +11,6 @@ This was supposed to be a more interesting project but I couldnt figure out othe
 Writing this readme took me more time than the script itself.
 Lol
 
-####
-I might delete this repo later.
-But if you are reading this, it is not too late.
-Champagne Papi was wrong.
+#### I might delete this repo later.
+#### But if you are reading this, it is not too late.
+#### Champagne Papi was wrong.
